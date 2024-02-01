@@ -1,0 +1,47 @@
+---
+title: "Gould and Lewontin 1979"
+author: "Brian O'Meara"
+format:
+  revealjs:
+    theme: dark
+    incremental: true
+editor: visual
+---
+
+## "Spandrels"
+
+![Interior of St. Mark's (from https://www.takewalks.com/venice-tours/st-marks-basilica-at-night-tour/)](images/2017_05_Venice_0185.jpg){fig-alt="Interior of a church, showing curved triangle between arches with art inside." fig-align="center"}
+
+## Learning objectives
+
+-   Describe the "adaptationist programme"
+
+-   Understand arguments against it and for it
+
+-   Understand how scientific arguments can be made
+
+-   Consider adaptationism in other areas
+
+## Scenarios
+
+Is this from adaptation? Will it increase fitness? How do you know?
+
+-   An ecologist finds that within a plant species, the individuals in more arid environments have more mycorrhizal fungi.
+
+-   Whales' heart rate goes down when holding their breath.
+
+-   Humans' heart rate goes down when holding their breath.
+
+-   Are all native elements of an ecosystem coevolved?
+
+## Questions
+
+-   How to avoid separating organisms into traits?
+
+-   What is the appropriate null model: adaptation or not?
+
+-   Why does it matter which "side" Darwin was on?
+
+-   What is "selection without adaptation"?
+
+-   What is "adaptation without selection"?
