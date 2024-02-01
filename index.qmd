@@ -24,7 +24,7 @@ editor: visual
 
 ## Scenarios
 
-Is this from adaptation? Will it increase fitness? How do you know?
+Is this from natural selection? Will it increase fitness? How do you know?
 
 -   An ecologist finds that within a plant species, the individuals in more arid environments have more mycorrhizal fungi.
 
@@ -33,6 +33,10 @@ Is this from adaptation? Will it increase fitness? How do you know?
 -   Humans' heart rate goes down when holding their breath.
 
 -   Are all native elements of an ecosystem coevolved?
+
+## Modern
+
+Let's look at the current issue of *Evolution*: <https://academic.oup.com/evolut/issue>
 
 ## Questions
 
@@ -45,3 +49,19 @@ Is this from adaptation? Will it increase fitness? How do you know?
 -   What is "selection without adaptation"?
 
 -   What is "adaptation without selection"?
+
+-   How can we distinguish things evolved by natural selection from those evolving due to non-adaptive reasons?
+
+## Questions
+
+-   What other examples of architectural constraints?
+
+-   "I liked this paper because it gave the view of scientists wanting to have the right answer and sort of cramming answers into ways to make them fit. How do we take imperical evidence and avoid trying to fit it into a box while still dealing with the limits of the facts of the information that we have available?"
+
+-   Since this paper in 1979, has the general view of evolution changed?
+
+-   What is a phyletic constraint / inertia? \[maybe use mollusks\]
+
+-   Neoteny vs recapitulatory
+
+-   "Why are two of the European alternatives theories about a species' body plan (Bauplan) divided into "strong" and "weak" forms? Is it because the former had support from major theorists?"
